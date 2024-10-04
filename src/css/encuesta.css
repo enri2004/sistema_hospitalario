@@ -1,0 +1,35 @@
+.perfil-image{
+position: absolute;
+top: 14%;
+left: 22%;
+width: 290px;
+height: 200px;
+}
+  
+.h2{
+    position: absolute;
+    top: 20px;
+    left: 33%;
+    background: rgb(55, 55, 204);
+    width: 40%;
+}
+.imagen{
+    position: absolute;
+    top:-2% ;
+    left:22% ;
+    width:120px;
+    height:120px ;
+}
+.boton2{
+    position: absolute;
+    width:90px ;
+    height:80px ;
+    top:85.2% ;
+    left:73.1% ;
+    clip-path: circle(50.2% at 81% 80%);
+    border: none;
+    outline: none;
+    background: rgb(97, 192, 215);
+    border-radius: 20px;
+    text-align: center;
+}

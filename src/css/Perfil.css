@@ -1,0 +1,55 @@
+.input {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espacio entre los inputs */
+    width: 30%;
+    left: 34%;
+    top: 57%;
+   
+  }
+  
+  .input2 {
+    padding: 5px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 50px 50px 50px 50px;
+    border: 1px solid rgb(50, 49, 143);
+    width: 90%;
+    height: 25%;
+  }
+
+  .imgen{
+    position: absolute;
+    top:10%;
+    left: 40%;
+ 
+  }
+  .h3{
+    position: absolute;
+    left: 42%;
+    top: 45%;
+    font-size: 40px;
+  }
+
+.contendor{
+  position: absolute;
+  top: 3px;
+  left: -1px;
+  width: 10%;
+  height:15% ;
+  background: red;
+  border-radius: 100%;
+  z-index: -1;
+  }
+  .contenedor1{
+    position: absolute;
+    top: 70px;
+    left: -1px;
+    width: 10%;
+    height:15% ;
+    background: red;
+    border-radius: 100%;
+    z-index: -10;
+    }
+    

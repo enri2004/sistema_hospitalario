@@ -1,0 +1,49 @@
+.inicio{
+    position: absolute;
+    left: 7%;
+    margin-top:10% ;
+    width: 700px;
+    height: 742px;
+    
+}
+.img{
+    position:absolute;
+    left:0%;
+    top:0%;
+    width: 745px;
+    height: 743px;
+    background: #9bb3e8;
+}
+
+
+.boton1{
+    position: absolute;
+    width: 220px;
+    height: 60px;
+    top: 68%;
+    left:42% ;
+    border-radius: 50px 50px;
+    border: 3.8px solid black;
+    outline: none;
+    background: #9bb3e8;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style:italic;
+    }
+    
+.h1{
+    position: absolute;
+    left: 30%;
+    top: 28%;
+}
+.input1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.input1::placeholder{
+    font-style:italic;
+}
+.input1:focus {
+    font-family: "Times New Roman", Times, serif;  
+  }
